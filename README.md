@@ -1,2 +1,2 @@
 # test hook
-something changed 1
+something changed 2
